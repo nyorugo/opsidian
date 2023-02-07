@@ -6,7 +6,7 @@
 インフラにもそれなりに明るく、顧客折衝経験も豊富でマルチなポジションで働ける**便利屋**的な人材です
 フロントエンドはかじった程度で、今NextJS（React、TypeScript）な案件にすこし絡んでいます
 
-[私について](about_me) を参照
+[私について](https://github.com/nyorugo/opsidian/blob/main/job_offer/job-offers/files/about_me.md) を参照
 
 ### OBJECTIVE
 
@@ -38,7 +38,7 @@
 
 ### WORK EXPERIENCE
 
-refer to [[work_experience]]
+refer to [[https://github.com/nyorugo/opsidian/blob/main/job_offer/job-offers/files/work_experience.md]]
 
 ### EDUCATION
 
