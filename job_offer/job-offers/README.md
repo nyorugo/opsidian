@@ -38,7 +38,7 @@
 
 ### WORK EXPERIENCE
 
-refer to [[https://github.com/nyorugo/opsidian/blob/main/job_offer/job-offers/files/work_experience.md]]
+[See here for reference](https://github.com/nyorugo/opsidian/blob/main/job_offer/job-offers/files/work_experience.md)
 
 ### EDUCATION
 
